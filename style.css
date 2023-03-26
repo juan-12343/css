@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: green;
+}
+
+#table_siswa {
+  border-collapse: collapse;
+}
+.link {
+  color: red;
+  text-decoration: none;
+}
